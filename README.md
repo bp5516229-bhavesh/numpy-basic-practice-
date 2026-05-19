@@ -7,7 +7,7 @@ My goal is to build a **strong foundation in Python, NumPy, and Data Science** b
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 python-learning-journey/
@@ -26,7 +26,7 @@ python-learning-journey/
 
 ---
 
-# 📘 Notebooks & Projects
+#  Notebooks & Projects
 
 | No. | File Name | Folder | Description |
 |------|------------|---------|-------------|
@@ -37,9 +37,9 @@ python-learning-journey/
 
 ---
 
-# 🧠 Topics Covered
+#  Topics Covered
 
-## 🔹 NumPy
+##  NumPy
 
 - Introduction to NumPy
 - Python Lists vs NumPy Arrays
@@ -71,7 +71,7 @@ python-learning-journey/
 
 ---
 
-# 🎯 Purpose of This Repository
+#  Purpose of This Repository
 
 This repository is created to:
 
@@ -83,7 +83,7 @@ This repository is created to:
 
 ---
 
-# 🛠️ Tools & Technologies Used
+#  Tools & Technologies Used
 
 - Python 🐍
 - Jupyter Notebook 📓
@@ -92,7 +92,7 @@ This repository is created to:
 
 ---
 
-# 📈 Learning Progress
+#  Learning Progress
 
 I am continuously updating this repository as I learn new Python concepts, NumPy topics, and mini projects.
 
@@ -106,17 +106,17 @@ Future additions may include:
 
 ---
 
-# 🤝 Contributions
+# Contributions
 
 This repository is mainly for my personal learning journey, but suggestions and improvements are always welcome.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Bhavesh Patil**
 
-📌 Passionate about learning **Python, NumPy, and Data Science**
+ Passionate about learning **Python, NumPy, and Data Science**
 
 ---
 
