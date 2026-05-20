@@ -1,4 +1,4 @@
-# 🚀 Python Learning Journey
+#  Python Learning Journey
 
 Welcome to my **Python Learning Journey Repository**!  
 This repository contains my **Python learning notebooks, NumPy practice files, image matrix exercises, and beginner-level mini projects**.
@@ -15,7 +15,7 @@ python-learning-journey/
 ├── README.md
 │
 ├── numpy/
-│   ├── 01_numpy_basics.ipynb
+│   ├── 18 th may (Numpy Prac).pdf
 │   ├── 02_numpy_practice_part_2.ipynb
 │   └── 03_image_matrix_numpy.ipynb
 │
